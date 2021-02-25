@@ -101,7 +101,13 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# MacOS filles
+.DS_store
+
 # Environments
+flask/
+.flask
+flask.bak/
 #.env
 .venv
 env/

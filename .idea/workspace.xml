@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4327488f-f35f-4d2c-ae6b-1a8912a3d05d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/static/img/ormrO7X6yI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/templates/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/templates/upload2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_folder/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_folder/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_folder/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_folder/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_folder/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_folder/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_folder/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_folder/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_folder/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj_create.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1247" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1247" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1249" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1249" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1249_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1249_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259_vm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/1259_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16437" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16437" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16439" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16439" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16446" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16446" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16448" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16448" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16450" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16450" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16454" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/16454" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2224" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2224" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2579" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2579" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2604" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2604" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2606" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2606" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2608" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2610" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2610" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619_vm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2619_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2656" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2656" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2657" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2657" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2658" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2658" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2659" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2659" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2662" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2662" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2663" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2663" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2664" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2664" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2665" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2665" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2666" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2666" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2667" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2667" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2673" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2673" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2674" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2674" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2678" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2678" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2679" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2679" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2696" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2696" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2703" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2704" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2704" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2840" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2840" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2840_vm" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2840_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2841" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/2841" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/3455" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/3455" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/5002" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/5002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/postgresql/PG_13_202007201/16388/pg_internal.init" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1olEj6zA60C4JSIL9mCCRqgTUaR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app_folder/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app_folder/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app_folder/static/js" />
+      <recent name="$PROJECT_DIR$/app_folder/static/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app_folder/static" />
+      <recent name="$PROJECT_DIR$/app_folder/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app_folder/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_folder/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4327488f-f35f-4d2c-ae6b-1a8912a3d05d" name="Default Changelist" comment="" />
+      <created>1613852908810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613852908810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614107236963">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state x="350" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.946@0.25.1680.946" timestamp="1613869926119" />
+    <state x="350" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.948@0.25.1680.948" timestamp="1614107236963" />
+    <state x="742" y="271" key="EnvironmentVariablesDialog" timestamp="1613869883569">
+      <screen x="0" y="25" width="1680" height="946" />
+    </state>
+    <state x="742" y="271" key="EnvironmentVariablesDialog/0.25.1680.946@0.25.1680.946" timestamp="1613869883569" />
+    <state width="1548" height="215" key="GridCell.Tab.0.bottom" timestamp="1614167095921">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1548" height="223" key="GridCell.Tab.0.bottom/0.25.1680.946@0.25.1680.946" timestamp="1614084871706" />
+    <state width="1548" height="215" key="GridCell.Tab.0.bottom/0.25.1680.948@0.25.1680.948" timestamp="1614117073626" />
+    <state width="1548" height="215" key="GridCell.Tab.0.bottom/0.25.1680.950@0.25.1680.950" timestamp="1614167095921" />
+    <state width="1548" height="215" key="GridCell.Tab.0.center" timestamp="1614167095920">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1548" height="223" key="GridCell.Tab.0.center/0.25.1680.946@0.25.1680.946" timestamp="1614084871705" />
+    <state width="1548" height="215" key="GridCell.Tab.0.center/0.25.1680.948@0.25.1680.948" timestamp="1614117073623" />
+    <state width="1548" height="215" key="GridCell.Tab.0.center/0.25.1680.950@0.25.1680.950" timestamp="1614167095920" />
+    <state width="1548" height="215" key="GridCell.Tab.0.left" timestamp="1614167095920">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1548" height="223" key="GridCell.Tab.0.left/0.25.1680.946@0.25.1680.946" timestamp="1614084871705" />
+    <state width="1548" height="215" key="GridCell.Tab.0.left/0.25.1680.948@0.25.1680.948" timestamp="1614117073622" />
+    <state width="1548" height="215" key="GridCell.Tab.0.left/0.25.1680.950@0.25.1680.950" timestamp="1614167095920" />
+    <state width="1548" height="215" key="GridCell.Tab.0.right" timestamp="1614167095921">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1548" height="223" key="GridCell.Tab.0.right/0.25.1680.946@0.25.1680.946" timestamp="1614084871706" />
+    <state width="1548" height="215" key="GridCell.Tab.0.right/0.25.1680.948@0.25.1680.948" timestamp="1614117073623" />
+    <state width="1548" height="215" key="GridCell.Tab.0.right/0.25.1680.950@0.25.1680.950" timestamp="1614167095921" />
+    <state width="1548" height="215" key="GridCell.Tab.1.bottom" timestamp="1614105935639">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1548" height="227" key="GridCell.Tab.1.bottom/0.25.1680.946@0.25.1680.946" timestamp="1613869348150" />
+    <state width="1548" height="215" key="GridCell.Tab.1.bottom/0.25.1680.948@0.25.1680.948" timestamp="1614105935639" />
+    <state width="1548" height="215" key="GridCell.Tab.1.center" timestamp="1614105935639">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1548" height="227" key="GridCell.Tab.1.center/0.25.1680.946@0.25.1680.946" timestamp="1613869348150" />
+    <state width="1548" height="215" key="GridCell.Tab.1.center/0.25.1680.948@0.25.1680.948" timestamp="1614105935639" />
+    <state width="1548" height="215" key="GridCell.Tab.1.left" timestamp="1614105935639">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1548" height="227" key="GridCell.Tab.1.left/0.25.1680.946@0.25.1680.946" timestamp="1613869348150" />
+    <state width="1548" height="215" key="GridCell.Tab.1.left/0.25.1680.948@0.25.1680.948" timestamp="1614105935639" />
+    <state width="1548" height="215" key="GridCell.Tab.1.right" timestamp="1614105935639">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1548" height="227" key="GridCell.Tab.1.right/0.25.1680.946@0.25.1680.946" timestamp="1613869348150" />
+    <state width="1548" height="215" key="GridCell.Tab.1.right/0.25.1680.948@0.25.1680.948" timestamp="1614105935639" />
+    <state x="463" y="265" key="IDE.errors.dialog" timestamp="1614093317047">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state x="463" y="265" key="IDE.errors.dialog/0.25.1680.948@0.25.1680.948" timestamp="1614093317047" />
+    <state x="325" y="159" key="SettingsEditor" timestamp="1614089370792">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state x="325" y="159" key="SettingsEditor/0.25.1680.946@0.25.1680.946" timestamp="1614083308323" />
+    <state x="325" y="159" key="SettingsEditor/0.25.1680.948@0.25.1680.948" timestamp="1614089370792" />
+    <state x="655" y="230" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613867930586">
+      <screen x="0" y="25" width="1680" height="946" />
+    </state>
+    <state x="655" y="230" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1680.946@0.25.1680.946" timestamp="1613867930586" />
+    <state x="687" y="311" width="893" height="590" key="find.popup" timestamp="1614256201753">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="687" y="310" width="893" height="588" key="find.popup/0.25.1680.948@0.25.1680.948" timestamp="1614086301358" />
+    <state x="687" y="311" width="893" height="590" key="find.popup/0.25.1680.950@0.25.1680.950" timestamp="1614256201753" />
+    <state x="481" y="257" key="search.everywhere.popup" timestamp="1613868876272">
+      <screen x="0" y="25" width="1680" height="946" />
+    </state>
+    <state x="481" y="257" key="search.everywhere.popup/0.25.1680.946@0.25.1680.946" timestamp="1613868876272" />
+  </component>
+</project>

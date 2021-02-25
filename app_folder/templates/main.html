@@ -1,11 +1,12 @@
 {% extends "base.html" %}
+
+{% block title %} Main Page {% endblock %}
+
+
 {% block content %}
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Main page</title>
-</head>
-<body>
+
+    <h1>Main Page</h1>
+
     <h2>Messages Generator</h2>
     <form method="post" action="/add_message">
         <input type="text" name="text">
@@ -14,7 +15,7 @@
     </form>
 
     <h3>Messages List</h3>
-    {% for message in messages %}
+    {% for message in messages_from_db %}
     <div>{{ message.text }}
         {% for tag in message.tags %}
             <b>#{{ tag.text }}</b>
@@ -22,6 +23,4 @@
     </div>
     {% endfor %}
 
-</body>
-</html>
 {% endblock %}
