@@ -1,8 +1,95 @@
 # FlaskApp
 ## Temp project to learn Flask
 
+Ok folks here is my flask project which should be integrated with some other projects in future.
+
+It's created for learning flask basics
+
+You can try it right now:
+
+```bash
+$ git clone https://github.com/AvEgA-ChuDoTvoreC/FlaskApp.git
+$ cd FlaskApp
+$ pyenv virtualenv 3.9.2 flask
+$ source flask/bin/activate
+```
+```bash
+$ export FLASK_APP=run.py
+$ flask run --host=0.0.0.0 --port=5000
+```
+or
+```bash
+python run.py
+```
+and check your browser at https://0.0.0.0:5000
+also don't forget register
+
+Don't forget about database creation ```brew install postgresql```
+
+## Project overview
+
+```
+FlaskApp data structure
+
+.
+├── README.md
+├── app_folder        - main folder project
+│   ├── __init__.py   - some kinda configurator file
+│   ├── models.py     - most of all db functions
+│   ├── routes.py     - all flask routes to html pages
+│   ├── static        - folder with .css .js files wich provides html-page style 
+│   ├── templates     - folder with .html templates
+│   └── views         - folder with nothing (soon will be views.py file)
+├── requirements.txt  - pip freeze >  (all side packages here)
+├── run.py            - FlaskApp starter      
+└── tmp               
+    ├── mysql         - just db follder
+    └── postgresql    - just db follder
 
 
+FlaskApp
+.
+├── README.md
+├── app_folder
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── static
+│   │   ├── css
+│   │   │   └── bootstrap.min.css
+│   │   ├── img
+│   │   │   └── ormrO7X6yI.jpg
+│   │   ├── js
+│   │   │   └── bootstrap.min.js
+│   │   └── upload_folder
+│   │       └── avatar
+│   │           ├── -ormrO7X6yI.jpg
+│   │           ├── 16305.jpg
+│   │           ├── 19483.jpg
+│   │           ├── 2.jpg
+│   │           └── 920.jpg
+│   ├── templates
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── login.html
+│   │   ├── main.html
+│   │   ├── register.html
+│   │   ├── upload.html
+│   │   ├── upload2.html
+│   │   └── welcome.htm
+│   └── views
+├── requirements.txt
+├── run.py
+└── tmp
+    ├── mysql
+    └── postgresql
+        └── PG_13_202007201
+
+
+```
+
+
+## Some usefull stuff
 ```bash
 pip install flask
 pip install flask-sqlalchemy
@@ -85,3 +172,5 @@ https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask
 <h1>Icons</h1>
 https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b
 ```
+
+
