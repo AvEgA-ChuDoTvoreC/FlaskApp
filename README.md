@@ -1,5 +1,5 @@
 # FlaskApp
-## Temp project to learn Flask
+## Temp project to learn Flask (FUTURE PART OF DbRabbDockeAvUpdateConn)
 
 Ok folks here is my flask project which should be integrated with some other projects in future.
 
@@ -12,6 +12,7 @@ $ git clone https://github.com/AvEgA-ChuDoTvoreC/FlaskApp.git
 $ cd FlaskApp
 $ pyenv virtualenv 3.9.2 flask
 $ source flask/bin/activate
+$ pip install -r requirements.txt
 ```
 ```bash
 $ export FLASK_APP=run.py
